@@ -1,2 +1,2 @@
 # FlowControllerDemo
-A demo showed flowController pattern in iOS
+A demo showed flowController pattern in iOS.
